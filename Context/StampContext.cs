@@ -9,7 +9,7 @@ namespace TestTaskEF.Context
 {
     public class StampContext: DbContext
     {
-        public StampContext(DbContextOptions<StampContext> option) : base(option) { }
+        public StampContext(DbContextOptions<StampContext> option) : base(option) { Database.EnsureCreated(); }
         public DbSet<StampModel> Stamps { get; set; }
         public DbSet<ListModel> Lists { get; set; }
         public DbSet<DeptModel> Depts { get; set; }
