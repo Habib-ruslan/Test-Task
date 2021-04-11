@@ -39,7 +39,6 @@ namespace TestTaskEF.Services
             foreach (var k in StampList.Stamps)
             {
                 if (k.Id == id) return k;
-                else continue;
             }
             return null;
         }

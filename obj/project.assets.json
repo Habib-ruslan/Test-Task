@@ -8969,11 +8969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTaskEF\\TestTaskEF.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Test-Task\\TestTaskEF.csproj",
       "projectName": "TestTaskEF",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TestTaskEF\\TestTaskEF.csproj",
+      "projectPath": "C:\\Users\\user\\Test-Task\\TestTaskEF.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TestTaskEF\\obj\\",
+      "outputPath": "C:\\Users\\user\\Test-Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

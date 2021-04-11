@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzLQSXCujsMCE3cwaVU+gj6d4orUFRbhVMvW4YiJ9WNsjhwV3rM92tvSS+HTx5QCgHjntWqtE5UsHwu1yd/zpA==",
+  "dgSpecHash": "KQ1IgDZaMMNUs9WBHAcswS1rV5/AisIZX9LkmMuse5x5twy2egHNPsmI1PTd3ILfKPubYwFrX0+MEobF4hc5QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TestTaskEF\\TestTaskEF.csproj",
+  "projectFilePath": "C:\\Users\\user\\Test-Task\\TestTaskEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
